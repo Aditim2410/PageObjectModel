@@ -17,7 +17,7 @@ public class TestBase {
 	
 	public static Properties prop;
 	
-	
+	//for calling properties
 	public TestBase()
 	{
 		try {
@@ -31,6 +31,7 @@ public class TestBase {
 		}
 	}
 	
+	//To initialize methods before execution
 	
 	public void initialization() {
 		

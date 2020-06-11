@@ -8,6 +8,8 @@ import org.openqa.selenium.support.PageFactory;
 import com.crm.qa.base.TestBase;
 
 public class HomePage extends TestBase {
+	
+	//Page Factory
 
 	@FindBy(xpath="//a[text()='Contacts']")
 	
